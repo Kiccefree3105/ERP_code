@@ -24,4 +24,4 @@
 - Explaine feature importance and model performance on the six target variables.
 
 ### 4_Case_Studies_Analysis
-- Analysis of two case studies based on model eplanation.
+- Analysis of two case studies based on model explanation.
