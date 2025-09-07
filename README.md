@@ -14,7 +14,7 @@
 ### 1_Model_Training
 - Use sampled 100,000 data and corresponding results from CLMU as traning data for model traning.
 - Model one: FLAML-automated tree based models.
-- MOdel two: FLAML-tuned MLP model.
+- Model two: FLAML-tuned MLP model.
 
 ### 2_Model_Comparison
 - Choose the better performed model based on several model performance parameters.
